@@ -1,0 +1,6 @@
+framework module Pods_Student_Info {
+  umbrella header "Pods-Student_Info-umbrella.h"
+
+  export *
+  module * { export * }
+}
